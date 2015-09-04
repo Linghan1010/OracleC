@@ -1,0 +1,10 @@
+(a) 6
+(b) 8/24/2015
+(c) 0,the repository was not created by then
+(d) all the files inside src have been modified by once
+(e) "git log" shows all the previous commits have been made to present repository,
+    while "git status" shows current status of the working tree and how it changed
+    from last commit
+(f) git log --follow -p main.java
+(g) git log --grep=transaction
+(h) git log --author="Lauren" --after="01/05/2015" --before="06/14/2015" 
